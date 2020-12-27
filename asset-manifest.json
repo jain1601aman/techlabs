@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/techlabs/static/css/main.e1ecb597.chunk.css",
-    "main.js": "/techlabs/static/js/main.2a93ec1e.chunk.js",
-    "main.js.map": "/techlabs/static/js/main.2a93ec1e.chunk.js.map",
+    "main.js": "/techlabs/static/js/main.e88c2e3a.chunk.js",
+    "main.js.map": "/techlabs/static/js/main.e88c2e3a.chunk.js.map",
     "runtime-main.js": "/techlabs/static/js/runtime-main.1a7302c2.js",
     "runtime-main.js.map": "/techlabs/static/js/runtime-main.1a7302c2.js.map",
     "static/js/2.c5b5fc04.chunk.js": "/techlabs/static/js/2.c5b5fc04.chunk.js",
     "static/js/2.c5b5fc04.chunk.js.map": "/techlabs/static/js/2.c5b5fc04.chunk.js.map",
     "index.html": "/techlabs/index.html",
-    "precache-manifest.0c7fdf5078d05b249dfaf6a8df9937e4.js": "/techlabs/precache-manifest.0c7fdf5078d05b249dfaf6a8df9937e4.js",
+    "precache-manifest.3cdded0502f648b1c79a768ad7baea1b.js": "/techlabs/precache-manifest.3cdded0502f648b1c79a768ad7baea1b.js",
     "service-worker.js": "/techlabs/service-worker.js",
     "static/css/main.e1ecb597.chunk.css.map": "/techlabs/static/css/main.e1ecb597.chunk.css.map",
     "static/js/2.c5b5fc04.chunk.js.LICENSE.txt": "/techlabs/static/js/2.c5b5fc04.chunk.js.LICENSE.txt",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.1a7302c2.js",
     "static/js/2.c5b5fc04.chunk.js",
     "static/css/main.e1ecb597.chunk.css",
-    "static/js/main.2a93ec1e.chunk.js"
+    "static/js/main.e88c2e3a.chunk.js"
   ]
 }

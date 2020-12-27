@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f3f66241075c666a92d92783d51a7d1",
+    "revision": "61bf0ce66f523322c48f831dd3efe770",
     "url": "/techlabs/index.html"
   },
   {
-    "revision": "6b681e8fd816cffb99da",
+    "revision": "23c760797210e8de44d7",
     "url": "/techlabs/static/css/main.e1ecb597.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techlabs/static/js/2.c5b5fc04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b681e8fd816cffb99da",
-    "url": "/techlabs/static/js/main.2a93ec1e.chunk.js"
+    "revision": "23c760797210e8de44d7",
+    "url": "/techlabs/static/js/main.e88c2e3a.chunk.js"
   },
   {
     "revision": "5debbf6eaade43236045",
