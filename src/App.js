@@ -55,7 +55,7 @@ const App = ({ onTryAutoSignup }) => {
   }, [onTryAutoSignup]);
 
   return (
-    <BrowserRouter basename={process.env.port}>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         {/* With Layout */}
         <RouteUser path="/" exact Component={Dashboard} />
